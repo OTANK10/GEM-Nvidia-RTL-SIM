@@ -1,4 +1,4 @@
-#MINI GEM lite: RTL Logic Simulator on GPU for Simple Circuits
+# MINI GEM lite: RTL Logic Simulator on GPU for Simple Circuits
  * Planned Workflow
 1. Input
 
@@ -21,8 +21,8 @@ Each GPU thread simulates a gate or a logic block
 Show input/output transitions over simulated clock cycles  
 
 Output data in CSV or waveform format  
-
-# Welcome to GEM
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+* Welcome to GEM
 GEM is an open-source RTL logic simulator with CUDA acceleration, developed and maintained by NVIDIA Research.
 GEM can deliver up to 5--40X speed-up compared to CPU-based leading RTL simulators.
 A summary of the work with paper can be found [here](https://research.nvidia.com/publication/2025-06_gem-gpu-accelerated-emulator-inspired-rtl-simulation).
