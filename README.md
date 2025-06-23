@@ -21,7 +21,10 @@ Each GPU thread simulates a gate or a logic block
 Show input/output transitions over simulated clock cycles  
 
 Output data in CSV or waveform format  
-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+===========================================================================================================
+
+
 * Welcome to GEM
 GEM is an open-source RTL logic simulator with CUDA acceleration, developed and maintained by NVIDIA Research.
 GEM can deliver up to 5--40X speed-up compared to CPU-based leading RTL simulators.
