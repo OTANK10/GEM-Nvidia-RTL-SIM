@@ -22,7 +22,7 @@ Show input/output transitions over simulated clock cycles
 
 Output data in CSV or waveform format  
 
-===========================================================================================================
+=======================================================================================
 
 
 * Welcome to GEM
